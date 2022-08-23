@@ -6,7 +6,3 @@ for i in range(10):
             if i < 8:
                 print(', ', end='')
 print()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
